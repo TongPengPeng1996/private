@@ -68,6 +68,7 @@ class UserController extends Controller
      public function store(Request $request)
     {   
         // var_dump($_POST);
+        // 这是一行注释  在 github改的
         // $name=$_POST['name'];
         // $age=$_POST['age'];
         // $sex=$_POST['sex'];
